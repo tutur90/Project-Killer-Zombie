@@ -10,7 +10,9 @@ L'objectif principal de notre projet était de concevoir un dispositif ingénieu
 
 Pour atteindre cet objectif, nous avons choisi de recycler un projet antérieur réalisé par des deuxièmes années de notre école : une bobine Tesla. Nous avons entrepris des améliorations significatives de ce système, en l'adaptant pour qu'il fonctionne en conjonction avec un capteur capable de détecter la présence de zombies. 
 
-Photo
+
+![alt text](https://github.com/tutur90/Project-Killer-Zombie/blob/main/Photos/Shema%20initial.png)
+
 
 Dans notre première illustration, nous avions envisagé d'incorporer une bobine Tesla contrôlée par un capteur de pression (qui sera ensuite remplacé par un capteur ultrasonore). Nous avions également prévu d'inclure un écran LCD ou des LED pour indiquer l'état de fonctionnement de notre système, ainsi qu'un bouton d'arrêt d'urgence pour le désactiver en cas de besoin (comme pour ramasser les cadavres des zombies). 
 
