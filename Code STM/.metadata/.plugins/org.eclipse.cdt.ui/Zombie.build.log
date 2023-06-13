@@ -1,0 +1,17 @@
+13:54:12 **** Incremental Build of configuration Debug for project Zombie ****
+make -j8 all 
+arm-none-eabi-gcc "../Core/Src/main.c" -mcpu=cortex-m7 -std=gnu11 -g3 -DDEBUG -DUSE_HAL_DRIVER -DSTM32H7A3xxQ -c -I../Core/Inc -I../Drivers/STM32H7xx_HAL_Driver/Inc -I../Drivers/STM32H7xx_HAL_Driver/Inc/Legacy -I../Drivers/CMSIS/Device/ST/STM32H7xx/Include -I../Drivers/CMSIS/Include -I../Middlewares/Third_Party/FreeRTOS/Source/include -I../Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS_V2 -I../Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -MMD -MP -MF"Core/Src/main.d" -MT"Core/Src/main.o" --specs=nano.specs -mfpu=fpv5-d16 -mfloat-abi=hard -mthumb -o "Core/Src/main.o"
+arm-none-eabi-gcc -o "Zombie.elf" @"objects.list"   -mcpu=cortex-m7 -T"C:\Users\maxepech35\Desktop\projet\Zombie\STM32H7A3ZITXQ_FLASH.ld" --specs=nosys.specs -Wl,-Map="Zombie.map" -Wl,--gc-sections -static --specs=nano.specs -mfpu=fpv5-d16 -mfloat-abi=hard -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
+Finished building target: Zombie.elf
+ 
+arm-none-eabi-size   Zombie.elf 
+arm-none-eabi-objdump -h -S  Zombie.elf  > "Zombie.list"
+   text	   data	    bss	    dec	    hex	filename
+  22352	    128	  20712	  43192	   a8b8	Zombie.elf
+Finished building: default.size.stdout
+ 
+Finished building: Zombie.list
+ 
+
+13:54:13 Build Finished. 0 errors, 0 warnings. (took 1s.640ms)
+
