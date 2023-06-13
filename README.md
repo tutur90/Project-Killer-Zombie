@@ -34,9 +34,10 @@ Voici les principaux éléments et le fonctionnement d'une bobine Tesla :
 
 3. Condensateur : Un condensateur est utilisé pour stocker l'énergie électrique et la libérer de manière contrôlée. Il est connecté en parallèle avec la bobine primaire. Le condensateur est chargé avec une tension élevée provenant de l'alimentation électrique et, lorsqu'il est déchargé, libère cette énergie sous forme d'impulsions électriques rapides. 
 
+![alt text](https://github.com/tutur90/Project-Killer-Zombie/blob/main/Photos/Condensateur.jpg)
+
 4. Bobine secondaire : La bobine secondaire est composée d'un grand nombre de tours de fil de cuivre fin et est placée à proximité de la bobine primaire. Lorsque les impulsions électriques du condensateur atteignent la bobine secondaire, cela crée un champ magnétique intense qui induit une tension élevée dans la bobine secondaire. Cette tension induite est plusieurs fois supérieure à la tension d'entrée et génère des arcs électriques à haute fréquence au sommet de la bobine. 
 
- 
 
 5. Éclateurs : Les éclateurs sont des dispositifs de commutation utilisés pour réguler le flux d'électricité entre la bobine primaire et la bobine secondaire. Ils permettent de contrôler le moment de décharge du condensateur dans la bobine primaire, ce qui crée des oscillations et une résonance électromagnétique dans le système. 
 
