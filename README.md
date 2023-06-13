@@ -11,4 +11,4 @@ Photo
 Dans notre première illustration, nous avions envisagé d'incorporer une bobine Tesla contrôlée par un capteur de pression (qui sera ensuite remplacé par un capteur ultrasonore). Nous avions également prévu d'inclure un écran LCD ou des LED pour indiquer l'état de fonctionnement de notre système, ainsi qu'un bouton d'arrêt d'urgence pour le désactiver en cas de besoin (comme pour ramasser les cadavres des zombies). 
 
 
-![alt text]([http://url/to/img.png](https://upload.wikimedia.org/wikipedia/commons/2/2d/Teslacirc2.png))
+![alt text]((https://upload.wikimedia.org/wikipedia/commons/2/2d/Teslacirc2.png))
