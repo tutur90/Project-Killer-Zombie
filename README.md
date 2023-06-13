@@ -46,11 +46,15 @@ Le fonctionnement global de la bobine Tesla repose sur la résonance électromag
 
  ## Le microcontroleur
  
+![alt text](https://github.com/tutur90/Project-Killer-Zombie/blob/main/Photos/Algorigrame%201.png)
+![alt text](https://github.com/tutur90/Project-Killer-Zombie/blob/main/Photos/Algorigrame%202.png)
+ 
 ### Capteur de distance et déclenchement de la Tesla :
 Les tâches Trigger et écho sont deux tâches qui s’exécutent en parallèle, elles sont toutes deux en lien avec le capteur de distance HC SR04. En effet comme nous avons pu le voir dans la datasheet du composant, il suffit de l’alimenter ainsi que de générer une courte impulsion sur le pin trigger du composant afin qu’il génère un signal d’écho comme réponse.
  Le signal d’écho reste à l’état haut jusqu’à ce que le capteur reçoive l’onde sonore qui a été réfléchie par un obstacle, cette durée est donc proportionnelle à la distance parcourue par l’onde sonore. Le calcul de la distance est alors D = V*T avec V la vitesse du son dans l’air soit 340 m/s.
 Une fois que nous avons calculé la distance, on peut alors définir un seuil en dessous duquel nous déclenchons la bobine, nous l’avons défini à 70cm lors de la démonstration de notre projet. 
 Le déclenchement de la bobine Tesla se fait par la mise en tension d’une PIN de sortie du STM32, cette PIN est reliée à un circuit électronique simple que nous verrons dans la suite de ce document.
+
 ### Bouton d’arrêt :
 Nous avons aussi programmé un bouton d’arrêt, il s’agit du bouton bleu du STM32. Un algorigramme n’est pas nécessaire ici puisqu’il s’agit simplement de détecter l’appui du bouton et remettre à zéro la PIN de sortie qui avait été activée lors d’une détection de présence et ce pendant dix secondes nous laissant le temps de couper l’alimentation sans risque.
 
