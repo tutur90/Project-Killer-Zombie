@@ -1,7 +1,8 @@
 # Project Killer Zombie
 
-Photo
-Une image contenant texte
+
+![alt text](https://github.com/tutur90/Project-Killer-Zombie/blob/main/Photos/Banniere.png)
+
 
 Description générée automatiquement
 
