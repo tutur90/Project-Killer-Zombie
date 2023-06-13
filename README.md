@@ -1,6 +1,9 @@
 # Project Killer Zombie
 
 Photo
+Une image contenant texte
+
+Description générée automatiquement
 
 L'objectif principal de notre projet était de concevoir un dispositif ingénieux pour piéger les zombies lors d'une invasion. Après une session intense de brainstorming, nous avons pris en compte notre spécialisation en électronique et ses applications au sein de notre école d'ingénieurs. C'est ainsi que nous avons opté pour l'idée fascinante d'un système de détection des zombies, suivi d'une élimination par des éclairs produits grâce à une bobine Tesla. 
 
