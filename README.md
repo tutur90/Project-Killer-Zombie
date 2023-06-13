@@ -63,3 +63,9 @@ Nous avons aussi programmé un bouton d’arrêt, il s’agit du bouton bleu du 
 ![alt text](https://github.com/tutur90/Project-Killer-Zombie/blob/main/Photos/Algorigrame%201.png)
 ![alt text](https://github.com/tutur90/Project-Killer-Zombie/blob/main/Photos/Algorigrame%202.png)
 
+## Le realai
+
+![alt text](https://github.com/tutur90/Project-Killer-Zombie/blob/main/Photos/Relai.jpg)
+
+![alt text](https://github.com/tutur90/Project-Killer-Zombie/blob/main/Photos/Shema%20electrique%20relai.jpg)
+
