@@ -4,9 +4,9 @@
 ![alt text](https://github.com/tutur90/Project-Killer-Zombie/blob/main/Photos/Banniere.png)
 
 
-Description générée automatiquement
-
 L'objectif principal de notre projet était de concevoir un dispositif ingénieux pour piéger les zombies lors d'une invasion. Après une session intense de brainstorming, nous avons pris en compte notre spécialisation en électronique et ses applications au sein de notre école d'ingénieurs. C'est ainsi que nous avons opté pour l'idée fascinante d'un système de détection des zombies, suivi d'une élimination par des éclairs produits grâce à une bobine Tesla. 
+
+![alt text](https://github.com/tutur90/Project-Killer-Zombie/blob/main/Photos/Projet%20Killer%20Zombie.jpg)
 
 Pour atteindre cet objectif, nous avons choisi de recycler un projet antérieur réalisé par des deuxièmes années de notre école : une bobine Tesla. Nous avons entrepris des améliorations significatives de ce système, en l'adaptant pour qu'il fonctionne en conjonction avec un capteur capable de détecter la présence de zombies. 
 
