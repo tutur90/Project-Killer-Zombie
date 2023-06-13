@@ -16,7 +16,7 @@ Pour atteindre cet objectif, nous avons choisi de recycler un projet antérieur 
 
 Dans notre première illustration, nous avions envisagé d'incorporer une bobine Tesla contrôlée par un capteur de pression (qui sera ensuite remplacé par un capteur ultrasonore). Nous avions également prévu d'inclure un écran LCD ou des LED pour indiquer l'état de fonctionnement de notre système, ainsi qu'un bouton d'arrêt d'urgence pour le désactiver en cas de besoin (comme pour ramasser les cadavres des zombies). 
 
-
+## La bobine Tesla
 
 Une bobine Tesla est un dispositif électronique qui utilise des principes de résonance électromagnétique pour produire des arcs électriques spectaculaires et des décharges électriques à haute tension. Elle a été inventée par l'ingénieur et physicien Nikola Tesla à la fin du XIXe siècle. 
 
